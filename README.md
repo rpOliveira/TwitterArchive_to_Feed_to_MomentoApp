@@ -6,9 +6,7 @@
 
 3) Run the **tunearchive.sh** script in the same folder (it will change the original files).
 
-4) Copy the resulting **old_tweets.js** to your server and the **twitter_archive_feed.php** file (after editing your server url in the line
-
-$server = 'YOUR SERVER URL HERE';
+4) Copy the resulting **old_tweets.js** to your server and the **twitter_archive_feed.php** file (after editing your server url in the line $server = 'YOUR SERVER URL HERE';)
 
 5) The feed url will be [YOUR_SERVER_URL]/twitter_archive_feed.php
 
